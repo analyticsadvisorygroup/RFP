@@ -20,3 +20,4 @@
 ## Method for analysing data:
 1. TextBlob: Extremely easy to use for NLP. Tokenization, sentiment analysis, n-gram model, POS-Tagging can all be done in less than 3 lines of code. [Documentation here](https://textblob.readthedocs.io/en/dev/)
 
+2. nltk - has everything for nlp  
